@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Committed to be rich and beautiful
 ---
 
